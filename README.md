@@ -20,4 +20,4 @@ e.g.
 
 -helpme javascript do while loops
 
--helpme python magic methods
+-helpme python __init__
